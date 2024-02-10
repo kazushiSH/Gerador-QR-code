@@ -1,0 +1,13 @@
+manual para rodar como aplicativo separadamente:
+
+no prompt de comando digite:
+
+pip install pyinstaller
+
+pyinstaller --onefile seu_script.py
+
+se caso nao abrir tente: 
+
+cd ( pasta que quer em python)
+
+pyinstaller --noconsole (nome do programa).py
